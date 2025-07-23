@@ -36,6 +36,7 @@
 <script>
 import { useQuasar } from 'quasar'
 import { ref } from 'vue'
+<div>ข้อความจาก master</div>
 
 export default {
   setup () {

@@ -36,7 +36,7 @@
 <script>
 import { useQuasar } from 'quasar'
 import { ref } from 'vue'
-<div>ข้อความจาก master</div>
+<div>ข้อความจาก conflict-test</div>
 
 export default {
   setup () {
